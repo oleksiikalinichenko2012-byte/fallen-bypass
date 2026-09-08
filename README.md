@@ -8,5 +8,5 @@ executor this script before executor other scripts
 
 # LOADER:
 ```lua
-loadstring(request({Url='https://raw.githubusercontent.com/oleksiikalinichenko2012-byte/fallen-bypass/refs/heads/main/main%20code',Method='GET'}).Body)();
+loadstring(request({Url='https://raw.githubusercontent.com/oleksiikalinichenko2012-byte/fallen-bypass/refs/heads/main/maincode.lua',Method='GET'}).Body)();
 ```
